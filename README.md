@@ -12,7 +12,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o código](https://github.com/link_do_repositorio). <!-- caso não aplicável, remover esta linha -->
 
-- [Link para a monografia](https://link_da_monografia.com). <!-- caso não aplicável, remover esta linha -->
+- [Link para a monografia](https://drive.google.com/drive/folders/1JWyXFRH7sdOISxmT59VwjOxj6xrk7iAw?usp=sharing). <!-- caso não aplicável, remover esta linha -->
 
 
 ---
