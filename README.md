@@ -3,7 +3,7 @@
 
 #### Aluno: [Ronald Alzamende Martins](https://github.com/ronaldlm)
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
-#### Co-orientador(/a/es/as): [Felipe Borges](https://github.com/) e [Guilherme Strachan]
+#### Co-orientador(/a/es/as): [Felipe Borges](https://github.com/) e Guilherme Strachan
 
 ---
 
