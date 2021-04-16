@@ -1,0 +1,649 @@
+Estado;Região;Ano;Depósitos
+São Paulo;Sudeste;1993;2519
+Rio de Janeiro;Sudeste;1993;540
+Rio Grande do Sul;Sul;1993;419
+Minas Gerais;Sudeste;1993;384
+Paraná;Sul;1993;289
+Santa Catarina;Sul;1993;236
+Bahia;Nordeste;1993;69
+Distrito Federal;Centro-Oeste;1993;65
+Espírito Santo;Sudeste;1993;53
+Mato Grosso do Sul;Centro-Oeste;1993;49
+Pernambuco;Nordeste;1993;48
+Ceará;Nordeste;1993;47
+Goiás;Centro-Oeste;1993;40
+Paraíba;Nordeste;1993;24
+Mato Grosso;Centro-Oeste;1993;21
+Pará;Norte;1993;16
+Maranhão;Nordeste;1993;13
+Amazonas;Norte;1993;11
+Rondônia;Norte;1993;10
+Rio Grande do Norte;Nordeste;1993;9
+Alagoas;Nordeste;1993;6
+Sergipe;Nordeste;1993;4
+Piauí;Nordeste;1993;3
+Acre;Norte;1993;
+Amapá;Norte;1993;
+Roraima;Norte;1993;
+Tocantins;Norte;1993;
+São Paulo;Sudeste;1994;2247
+Rio de Janeiro;Sudeste;1994;477
+Minas Gerais;Sudeste;1994;376
+Rio Grande do Sul;Sul;1994;353
+Paraná;Sul;1994;323
+Santa Catarina;Sul;1994;211
+Distrito Federal;Centro-Oeste;1994;88
+Bahia;Nordeste;1994;56
+Espírito Santo;Sudeste;1994;56
+Goiás;Centro-Oeste;1994;56
+Ceará;Nordeste;1994;51
+Pernambuco;Nordeste;1994;48
+Mato Grosso do Sul;Centro-Oeste;1994;35
+Paraíba;Nordeste;1994;22
+Mato Grosso;Centro-Oeste;1994;20
+Rio Grande do Norte;Nordeste;1994;18
+Pará;Norte;1994;17
+Maranhão;Nordeste;1994;15
+Amazonas;Norte;1994;13
+Alagoas;Nordeste;1994;7
+Rondônia;Norte;1994;7
+Sergipe;Nordeste;1994;7
+Amapá;Norte;1994;2
+Piauí;Nordeste;1994;1
+Acre;Norte;1994;
+Roraima;Norte;1994;
+Tocantins;Norte;1994;
+São Paulo;Sudeste;1995;2658
+Minas Gerais;Sudeste;1995;555
+Rio de Janeiro;Sudeste;1995;540
+Rio Grande do Sul;Sul;1995;455
+Paraná;Sul;1995;376
+Santa Catarina;Sul;1995;264
+Distrito Federal;Centro-Oeste;1995;103
+Bahia;Nordeste;1995;99
+Espírito Santo;Sudeste;1995;92
+Pernambuco;Nordeste;1995;78
+Goiás;Centro-Oeste;1995;54
+Ceará;Nordeste;1995;53
+Mato Grosso do Sul;Centro-Oeste;1995;42
+Rio Grande do Norte;Nordeste;1995;27
+Pará;Norte;1995;18
+Amazonas;Norte;1995;15
+Maranhão;Nordeste;1995;14
+Mato Grosso;Centro-Oeste;1995;14
+Rondônia;Norte;1995;14
+Sergipe;Nordeste;1995;14
+Paraíba;Nordeste;1995;10
+Alagoas;Nordeste;1995;8
+Piauí;Nordeste;1995;4
+Tocantins;Norte;1995;2
+Acre;Norte;1995;
+Amapá;Norte;1995;
+Roraima;Norte;1995;
+São Paulo;Sudeste;1996;2582
+Rio Grande do Sul;Sul;1996;528
+Minas Gerais;Sudeste;1996;488
+Rio de Janeiro;Sudeste;1996;461
+Paraná;Sul;1996;364
+Santa Catarina;Sul;1996;334
+Distrito Federal;Centro-Oeste;1996;76
+Espírito Santo;Sudeste;1996;73
+Goiás;Centro-Oeste;1996;71
+Ceará;Nordeste;1996;69
+Pernambuco;Nordeste;1996;54
+Bahia;Nordeste;1996;51
+Mato Grosso do Sul;Centro-Oeste;1996;39
+Paraíba;Nordeste;1996;27
+Pará;Norte;1996;22
+Amazonas;Norte;1996;20
+Rio Grande do Norte;Nordeste;1996;14
+Maranhão;Nordeste;1996;11
+Mato Grosso;Centro-Oeste;1996;8
+Sergipe;Nordeste;1996;8
+Alagoas;Nordeste;1996;7
+Rondônia;Norte;1996;5
+Tocantins;Norte;1996;5
+Piauí;Nordeste;1996;4
+Roraima;Norte;1996;2
+Acre;Norte;1996;
+Amapá;Norte;1996;
+São Paulo;Sudeste;1997;2664
+Minas Gerais;Sudeste;1997;548
+Rio Grande do Sul;Sul;1997;456
+Rio de Janeiro;Sudeste;1997;450
+Paraná;Sul;1997;410
+Santa Catarina;Sul;1997;309
+Distrito Federal;Centro-Oeste;1997;109
+Espírito Santo;Sudeste;1997;99
+Goiás;Centro-Oeste;1997;76
+Bahia;Nordeste;1997;60
+Pernambuco;Nordeste;1997;59
+Ceará;Nordeste;1997;52
+Mato Grosso do Sul;Centro-Oeste;1997;32
+Rio Grande do Norte;Nordeste;1997;22
+Pará;Norte;1997;20
+Maranhão;Nordeste;1997;19
+Paraíba;Nordeste;1997;19
+Alagoas;Nordeste;1997;13
+Mato Grosso;Centro-Oeste;1997;11
+Sergipe;Nordeste;1997;10
+Rondônia;Norte;1997;8
+Amazonas;Norte;1997;6
+Tocantins;Norte;1997;6
+Piauí;Nordeste;1997;5
+Amapá;Norte;1997;1
+Acre;Norte;1997;
+Roraima;Norte;1997;
+São Paulo;Sudeste;1998;2590
+Rio Grande do Sul;Sul;1998;494
+Minas Gerais;Sudeste;1998;462
+Rio de Janeiro;Sudeste;1998;427
+Paraná;Sul;1998;393
+Santa Catarina;Sul;1998;278
+Bahia;Nordeste;1998;113
+Espírito Santo;Sudeste;1998;88
+Pernambuco;Nordeste;1998;88
+Distrito Federal;Centro-Oeste;1998;84
+Ceará;Nordeste;1998;55
+Goiás;Centro-Oeste;1998;50
+Rio Grande do Norte;Nordeste;1998;26
+Mato Grosso;Centro-Oeste;1998;22
+Pará;Norte;1998;22
+Paraíba;Nordeste;1998;19
+Amazonas;Norte;1998;18
+Mato Grosso do Sul;Centro-Oeste;1998;16
+Maranhão;Nordeste;1998;10
+Alagoas;Nordeste;1998;6
+Sergipe;Nordeste;1998;6
+Rondônia;Norte;1998;5
+Piauí;Nordeste;1998;2
+Amapá;Norte;1998;1
+Tocantins;Norte;1998;1
+Acre;Norte;1998;
+Roraima;Norte;1998;
+São Paulo;Sudeste;1999;2855
+Rio Grande do Sul;Sul;1999;520
+Minas Gerais;Sudeste;1999;519
+Paraná;Sul;1999;503
+Rio de Janeiro;Sudeste;1999;485
+Santa Catarina;Sul;1999;364
+Distrito Federal;Centro-Oeste;1999;131
+Espírito Santo;Sudeste;1999;99
+Pernambuco;Nordeste;1999;92
+Bahia;Nordeste;1999;86
+Goiás;Centro-Oeste;1999;70
+Ceará;Nordeste;1999;66
+Mato Grosso;Centro-Oeste;1999;40
+Mato Grosso do Sul;Centro-Oeste;1999;25
+Maranhão;Nordeste;1999;22
+Rio Grande do Norte;Nordeste;1999;21
+Amazonas;Norte;1999;17
+Pará;Norte;1999;17
+Alagoas;Nordeste;1999;16
+Paraíba;Nordeste;1999;16
+Rondônia;Norte;1999;7
+Tocantins;Norte;1999;6
+Piauí;Nordeste;1999;5
+Sergipe;Nordeste;1999;2
+Acre;Norte;1999;
+Amapá;Norte;1999;
+Roraima;Norte;1999;
+São Paulo;Sudeste;2000;2880
+Rio Grande do Sul;Sul;2000;556
+Paraná;Sul;2000;539
+Minas Gerais;Sudeste;2000;499
+Rio de Janeiro;Sudeste;2000;499
+Santa Catarina;Sul;2000;387
+Distrito Federal;Centro-Oeste;2000;108
+Goiás;Centro-Oeste;2000;97
+Bahia;Nordeste;2000;87
+Espírito Santo;Sudeste;2000;80
+Pernambuco;Nordeste;2000;72
+Ceará;Nordeste;2000;56
+Mato Grosso;Centro-Oeste;2000;38
+Rio Grande do Norte;Nordeste;2000;23
+Paraíba;Nordeste;2000;20
+Maranhão;Nordeste;2000;17
+Mato Grosso do Sul;Centro-Oeste;2000;17
+Amazonas;Norte;2000;16
+Sergipe;Nordeste;2000;13
+Alagoas;Nordeste;2000;10
+Piauí;Nordeste;2000;10
+Pará;Norte;2000;9
+Rondônia;Norte;2000;7
+Roraima;Norte;2000;3
+Tocantins;Norte;2000;3
+Acre;Norte;2000;
+Amapá;Norte;2000;
+São Paulo;Sudeste;2001;3009
+Rio Grande do Sul;Sul;2001;589
+Paraná;Sul;2001;553
+Rio de Janeiro;Sudeste;2001;516
+Minas Gerais;Sudeste;2001;513
+Santa Catarina;Sul;2001;469
+Distrito Federal;Centro-Oeste;2001;110
+Goiás;Centro-Oeste;2001;84
+Espírito Santo;Sudeste;2001;83
+Pernambuco;Nordeste;2001;78
+Ceará;Nordeste;2001;71
+Bahia;Nordeste;2001;67
+Paraíba;Nordeste;2001;35
+Mato Grosso;Centro-Oeste;2001;30
+Mato Grosso do Sul;Centro-Oeste;2001;28
+Pará;Norte;2001;20
+Alagoas;Nordeste;2001;17
+Amazonas;Norte;2001;17
+Rio Grande do Norte;Nordeste;2001;13
+Maranhão;Nordeste;2001;10
+Sergipe;Nordeste;2001;10
+Tocantins;Norte;2001;6
+Piauí;Nordeste;2001;5
+Rondônia;Norte;2001;5
+Acre;Norte;2001;1
+Amapá;Norte;2001;
+Roraima;Norte;2001;
+São Paulo;Sudeste;2002;3117
+Rio Grande do Sul;Sul;2002;652
+Paraná;Sul;2002;559
+Rio de Janeiro;Sudeste;2002;515
+Minas Gerais;Sudeste;2002;507
+Santa Catarina;Sul;2002;474
+Distrito Federal;Centro-Oeste;2002;117
+Bahia;Nordeste;2002;80
+Pernambuco;Nordeste;2002;80
+Goiás;Centro-Oeste;2002;76
+Espírito Santo;Sudeste;2002;68
+Ceará;Nordeste;2002;51
+Paraíba;Nordeste;2002;35
+Pará;Norte;2002;29
+Mato Grosso;Centro-Oeste;2002;25
+Amazonas;Norte;2002;21
+Mato Grosso do Sul;Centro-Oeste;2002;18
+Rondônia;Norte;2002;12
+Alagoas;Nordeste;2002;11
+Maranhão;Nordeste;2002;11
+Tocantins;Norte;2002;8
+Rio Grande do Norte;Nordeste;2002;7
+Sergipe;Nordeste;2002;6
+Amapá;Norte;2002;3
+Roraima;Norte;2002;3
+Acre;Norte;2002;1
+Piauí;Nordeste;2002;1
+São Paulo;Sudeste;2003;3299
+Rio Grande do Sul;Sul;2003;734
+Paraná;Sul;2003;661
+Minas Gerais;Sudeste;2003;569
+Santa Catarina;Sul;2003;557
+Rio de Janeiro;Sudeste;2003;487
+Bahia;Nordeste;2003;115
+Goiás;Centro-Oeste;2003;111
+Distrito Federal;Centro-Oeste;2003;92
+Espírito Santo;Sudeste;2003;90
+Pernambuco;Nordeste;2003;71
+Ceará;Nordeste;2003;63
+Mato Grosso;Centro-Oeste;2003;26
+Alagoas;Nordeste;2003;25
+Amazonas;Norte;2003;23
+Paraíba;Nordeste;2003;23
+Rio Grande do Norte;Nordeste;2003;23
+Pará;Norte;2003;19
+Mato Grosso do Sul;Centro-Oeste;2003;17
+Rondônia;Norte;2003;10
+Maranhão;Nordeste;2003;9
+Sergipe;Nordeste;2003;9
+Acre;Norte;2003;5
+Roraima;Norte;2003;4
+Tocantins;Norte;2003;4
+Piauí;Nordeste;2003;3
+Amapá;Norte;2003;1
+São Paulo;Sudeste;2004;3376
+Rio Grande do Sul;Sul;2004;726
+Paraná;Sul;2004;703
+Minas Gerais;Sudeste;2004;593
+Rio de Janeiro;Sudeste;2004;579
+Santa Catarina;Sul;2004;565
+Goiás;Centro-Oeste;2004;122
+Distrito Federal;Centro-Oeste;2004;114
+Espírito Santo;Sudeste;2004;89
+Bahia;Nordeste;2004;88
+Ceará;Nordeste;2004;72
+Pernambuco;Nordeste;2004;62
+Amazonas;Norte;2004;37
+Pará;Norte;2004;34
+Paraíba;Nordeste;2004;34
+Mato Grosso do Sul;Centro-Oeste;2004;30
+Mato Grosso;Centro-Oeste;2004;25
+Rio Grande do Norte;Nordeste;2004;24
+Sergipe;Nordeste;2004;17
+Maranhão;Nordeste;2004;12
+Alagoas;Nordeste;2004;11
+Piauí;Nordeste;2004;6
+Tocantins;Norte;2004;6
+Rondônia;Norte;2004;5
+Amapá;Norte;2004;2
+Acre;Norte;2004;1
+Roraima;Norte;2004;
+São Paulo;Sudeste;2005;3135
+Rio Grande do Sul;Sul;2005;666
+Paraná;Sul;2005;649
+Rio de Janeiro;Sudeste;2005;593
+Minas Gerais;Sudeste;2005;580
+Santa Catarina;Sul;2005;579
+Bahia;Nordeste;2005;119
+Distrito Federal;Centro-Oeste;2005;110
+Goiás;Centro-Oeste;2005;104
+Espírito Santo;Sudeste;2005;90
+Pernambuco;Nordeste;2005;84
+Ceará;Nordeste;2005;72
+Rio Grande do Norte;Nordeste;2005;35
+Pará;Norte;2005;32
+Mato Grosso;Centro-Oeste;2005;28
+Amazonas;Norte;2005;26
+Mato Grosso do Sul;Centro-Oeste;2005;24
+Paraíba;Nordeste;2005;24
+Sergipe;Nordeste;2005;13
+Maranhão;Nordeste;2005;12
+Alagoas;Nordeste;2005;10
+Piauí;Nordeste;2005;5
+Rondônia;Norte;2005;5
+Roraima;Norte;2005;3
+Amapá;Norte;2005;2
+Acre;Norte;2005;1
+Tocantins;Norte;2005;1
+São Paulo;Sudeste;2006;2986
+Rio Grande do Sul;Sul;2006;659
+Paraná;Sul;2006;625
+Minas Gerais;Sudeste;2006;602
+Santa Catarina;Sul;2006;570
+Rio de Janeiro;Sudeste;2006;552
+Distrito Federal;Centro-Oeste;2006;125
+Goiás;Centro-Oeste;2006;108
+Espírito Santo;Sudeste;2006;105
+Bahia;Nordeste;2006;98
+Pernambuco;Nordeste;2006;68
+Ceará;Nordeste;2006;63
+Mato Grosso;Centro-Oeste;2006;42
+Paraíba;Nordeste;2006;39
+Rio Grande do Norte;Nordeste;2006;32
+Amazonas;Norte;2006;28
+Pará;Norte;2006;28
+Mato Grosso do Sul;Centro-Oeste;2006;27
+Sergipe;Nordeste;2006;21
+Alagoas;Nordeste;2006;17
+Rondônia;Norte;2006;9
+Piauí;Nordeste;2006;8
+Maranhão;Nordeste;2006;7
+Acre;Norte;2006;6
+Tocantins;Norte;2006;5
+Roraima;Norte;2006;3
+Amapá;Norte;2006;
+São Paulo;Sudeste;2007;3034
+Minas Gerais;Sudeste;2007;680
+Paraná;Sul;2007;633
+Rio Grande do Sul;Sul;2007;619
+Rio de Janeiro;Sudeste;2007;561
+Santa Catarina;Sul;2007;483
+Espírito Santo;Sudeste;2007;115
+Bahia;Nordeste;2007;103
+Goiás;Centro-Oeste;2007;97
+Distrito Federal;Centro-Oeste;2007;83
+Ceará;Nordeste;2007;64
+Mato Grosso;Centro-Oeste;2007;56
+Pernambuco;Nordeste;2007;52
+Amazonas;Norte;2007;39
+Paraíba;Nordeste;2007;31
+Mato Grosso do Sul;Centro-Oeste;2007;29
+Alagoas;Nordeste;2007;26
+Rio Grande do Norte;Nordeste;2007;26
+Pará;Norte;2007;21
+Sergipe;Nordeste;2007;10
+Piauí;Nordeste;2007;6
+Rondônia;Norte;2007;5
+Maranhão;Nordeste;2007;3
+Roraima;Norte;2007;2
+Acre;Norte;2007;1
+Amapá;Norte;2007;1
+Tocantins;Norte;2007;
+São Paulo;Sudeste;2008;3109
+Rio Grande do Sul;Sul;2008;693
+Paraná;Sul;2008;691
+Minas Gerais;Sudeste;2008;628
+Santa Catarina;Sul;2008;583
+Rio de Janeiro;Sudeste;2008;541
+Bahia;Nordeste;2008;120
+Espírito Santo;Sudeste;2008;118
+Goiás;Centro-Oeste;2008;108
+Distrito Federal;Centro-Oeste;2008;94
+Pernambuco;Nordeste;2008;76
+Ceará;Nordeste;2008;71
+Amazonas;Norte;2008;54
+Mato Grosso;Centro-Oeste;2008;41
+Pará;Norte;2008;32
+Paraíba;Nordeste;2008;30
+Mato Grosso do Sul;Centro-Oeste;2008;20
+Alagoas;Nordeste;2008;17
+Rio Grande do Norte;Nordeste;2008;17
+Maranhão;Nordeste;2008;9
+Sergipe;Nordeste;2008;9
+Tocantins;Norte;2008;7
+Piauí;Nordeste;2008;6
+Rondônia;Norte;2008;6
+Acre;Norte;2008;2
+Roraima;Norte;2008;1
+Amapá;Norte;2008;
+São Paulo;Sudeste;2009;3059
+Paraná;Sul;2009;710
+Rio Grande do Sul;Sul;2009;677
+Minas Gerais;Sudeste;2009;598
+Santa Catarina;Sul;2009;597
+Rio de Janeiro;Sudeste;2009;507
+Distrito Federal;Centro-Oeste;2009;131
+Bahia;Nordeste;2009;129
+Espírito Santo;Sudeste;2009;109
+Goiás;Centro-Oeste;2009;98
+Ceará;Nordeste;2009;78
+Pernambuco;Nordeste;2009;66
+Amazonas;Norte;2009;50
+Mato Grosso do Sul;Centro-Oeste;2009;35
+Paraíba;Nordeste;2009;33
+Rio Grande do Norte;Nordeste;2009;26
+Sergipe;Nordeste;2009;25
+Maranhão;Nordeste;2009;23
+Mato Grosso;Centro-Oeste;2009;23
+Alagoas;Nordeste;2009;22
+Pará;Norte;2009;19
+Rondônia;Norte;2009;11
+Piauí;Nordeste;2009;9
+Tocantins;Norte;2009;5
+Acre;Norte;2009;2
+Amapá;Norte;2009;1
+Roraima;Norte;2009;1
+São Paulo;Sudeste;2010;2742
+Rio Grande do Sul;Sul;2010;674
+Minas Gerais;Sudeste;2010;628
+Santa Catarina;Sul;2010;627
+Paraná;Sul;2010;625
+Rio de Janeiro;Sudeste;2010;421
+Bahia;Nordeste;2010;128
+Espírito Santo;Sudeste;2010;97
+Distrito Federal;Centro-Oeste;2010;92
+Goiás;Centro-Oeste;2010;86
+Ceará;Nordeste;2010;85
+Pernambuco;Nordeste;2010;65
+Amazonas;Norte;2010;45
+Paraíba;Nordeste;2010;37
+Mato Grosso do Sul;Centro-Oeste;2010;30
+Alagoas;Nordeste;2010;29
+Pará;Norte;2010;24
+Rio Grande do Norte;Nordeste;2010;22
+Maranhão;Nordeste;2010;20
+Mato Grosso;Centro-Oeste;2010;16
+Sergipe;Nordeste;2010;10
+Piauí;Nordeste;2010;9
+Tocantins;Norte;2010;9
+Rondônia;Norte;2010;4
+Amapá;Norte;2010;1
+Acre;Norte;2010;
+Roraima;Norte;2010;
+São Paulo;Sudeste;2011;2971
+Rio Grande do Sul;Sul;2011;678
+Paraná;Sul;2011;589
+Minas Gerais;Sudeste;2011;563
+Santa Catarina;Sul;2011;547
+Rio de Janeiro;Sudeste;2011;408
+Bahia;Nordeste;2011;114
+Goiás;Centro-Oeste;2011;100
+Pernambuco;Nordeste;2011;94
+Distrito Federal;Centro-Oeste;2011;91
+Ceará;Nordeste;2011;72
+Espírito Santo;Sudeste;2011;56
+Amazonas;Norte;2011;39
+Paraíba;Nordeste;2011;35
+Sergipe;Nordeste;2011;35
+Rio Grande do Norte;Nordeste;2011;29
+Mato Grosso do Sul;Centro-Oeste;2011;22
+Mato Grosso;Centro-Oeste;2011;20
+Maranhão;Nordeste;2011;19
+Piauí;Nordeste;2011;19
+Rondônia;Norte;2011;17
+Pará;Norte;2011;14
+Alagoas;Nordeste;2011;10
+Acre;Norte;2011;4
+Tocantins;Norte;2011;3
+Roraima;Norte;2011;2
+Amapá;Norte;2011;1
+São Paulo;Sudeste;2012;2816
+Rio Grande do Sul;Sul;2012;726
+Paraná;Sul;2012;637
+Minas Gerais;Sudeste;2012;612
+Santa Catarina;Sul;2012;482
+Rio de Janeiro;Sudeste;2012;390
+Bahia;Nordeste;2012;126
+Goiás;Centro-Oeste;2012;112
+Distrito Federal;Centro-Oeste;2012;101
+Espírito Santo;Sudeste;2012;73
+Pernambuco;Nordeste;2012;70
+Ceará;Nordeste;2012;56
+Rio Grande do Norte;Nordeste;2012;44
+Mato Grosso;Centro-Oeste;2012;41
+Amazonas;Norte;2012;34
+Mato Grosso do Sul;Centro-Oeste;2012;31
+Sergipe;Nordeste;2012;31
+Maranhão;Nordeste;2012;30
+Paraíba;Nordeste;2012;26
+Alagoas;Nordeste;2012;20
+Pará;Norte;2012;14
+Piauí;Nordeste;2012;14
+Rondônia;Norte;2012;9
+Tocantins;Norte;2012;7
+Roraima;Norte;2012;1
+Acre;Norte;2012;
+Amapá;Norte;2012;
+São Paulo;Sudeste;2013;2659
+Rio Grande do Sul;Sul;2013;772
+Paraná;Sul;2013;626
+Minas Gerais;Sudeste;2013;599
+Santa Catarina;Sul;2013;481
+Rio de Janeiro;Sudeste;2013;413
+Espírito Santo;Sudeste;2013;123
+Bahia;Nordeste;2013;112
+Distrito Federal;Centro-Oeste;2013;93
+Ceará;Nordeste;2013;87
+Goiás;Centro-Oeste;2013;87
+Pernambuco;Nordeste;2013;77
+Rio Grande do Norte;Nordeste;2013;42
+Paraíba;Nordeste;2013;39
+Mato Grosso do Sul;Centro-Oeste;2013;34
+Sergipe;Nordeste;2013;32
+Amazonas;Norte;2013;31
+Maranhão;Nordeste;2013;30
+Pará;Norte;2013;22
+Mato Grosso;Centro-Oeste;2013;21
+Alagoas;Nordeste;2013;18
+Rondônia;Norte;2013;11
+Tocantins;Norte;2013;10
+Piauí;Nordeste;2013;8
+Acre;Norte;2013;2
+Amapá;Norte;2013;
+Roraima;Norte;2013;
+São Paulo;Sudeste;2014;2288
+Rio Grande do Sul;Sul;2014;608
+Paraná;Sul;2014;551
+Minas Gerais;Sudeste;2014;442
+Santa Catarina;Sul;2014;418
+Rio de Janeiro;Sudeste;2014;352
+Espírito Santo;Sudeste;2014;111
+Pernambuco;Nordeste;2014;91
+Bahia;Nordeste;2014;90
+Ceará;Nordeste;2014;86
+Goiás;Centro-Oeste;2014;65
+Distrito Federal;Centro-Oeste;2014;62
+Sergipe;Nordeste;2014;38
+Rio Grande do Norte;Nordeste;2014;37
+Amazonas;Norte;2014;35
+Mato Grosso do Sul;Centro-Oeste;2014;35
+Paraíba;Nordeste;2014;28
+Pará;Norte;2014;18
+Mato Grosso;Centro-Oeste;2014;17
+Maranhão;Nordeste;2014;15
+Alagoas;Nordeste;2014;13
+Piauí;Nordeste;2014;12
+Rondônia;Norte;2014;9
+Tocantins;Norte;2014;6
+Acre;Norte;2014;2
+Amapá;Norte;2014;1
+Roraima;Norte;2014;1
+São Paulo;Sudeste;2015;2088
+Rio Grande do Sul;Sul;2015;571
+Paraná;Sul;2015;519
+Santa Catarina;Sul;2015;469
+Minas Gerais;Sudeste;2015;454
+Rio de Janeiro;Sudeste;2015;316
+Espírito Santo;Sudeste;2015;124
+Bahia;Nordeste;2015;113
+Pernambuco;Nordeste;2015;96
+Goiás;Centro-Oeste;2015;76
+Ceará;Nordeste;2015;69
+Rio Grande do Norte;Nordeste;2015;52
+Distrito Federal;Centro-Oeste;2015;46
+Paraíba;Nordeste;2015;38
+Sergipe;Nordeste;2015;29
+Maranhão;Nordeste;2015;28
+Pará;Norte;2015;26
+Mato Grosso;Centro-Oeste;2015;25
+Amazonas;Norte;2015;22
+Alagoas;Nordeste;2015;21
+Mato Grosso do Sul;Centro-Oeste;2015;21
+Piauí;Nordeste;2015;12
+Rondônia;Norte;2015;8
+Tocantins;Norte;2015;2
+Acre;Norte;2015;1
+Roraima;Norte;2015;1
+Amapá;Norte;2015;
+São Paulo;Sudeste;2016;2013
+Rio Grande do Sul;Sul;2016;697
+Paraná;Sul;2016;615
+Minas Gerais;Sudeste;2016;553
+Santa Catarina;Sul;2016;471
+Rio de Janeiro;Sudeste;2016;325
+Pernambuco;Nordeste;2016;137
+Espírito Santo;Sudeste;2016;134
+Bahia;Nordeste;2016;119
+Goiás;Centro-Oeste;2016;76
+Ceará;Nordeste;2016;72
+Distrito Federal;Centro-Oeste;2016;66
+Paraíba;Nordeste;2016;60
+Maranhão;Nordeste;2016;45
+Rio Grande do Norte;Nordeste;2016;40
+Mato Grosso;Centro-Oeste;2016;37
+Pará;Norte;2016;33
+Sergipe;Nordeste;2016;33
+Amazonas;Norte;2016;25
+Mato Grosso do Sul;Centro-Oeste;2016;24
+Alagoas;Nordeste;2016;23
+Piauí;Nordeste;2016;19
+Rondônia;Norte;2016;13
+Tocantins;Norte;2016;10
+Amapá;Norte;2016;2
+Acre;Norte;2016;
+Roraima;Norte;2016;
