@@ -10,7 +10,7 @@
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 
-- [Código em python dessenvolvido no google colab](https://github.com/ronaldlm/projeto-final-bimaster/commit/c734aaa4ba6efe0b86795161bdc971c55eb2430b). 
+- [Código em python desenvolvido no google colab](https://github.com/ronaldlm/projeto-final-bimaster/commit/c734aaa4ba6efe0b86795161bdc971c55eb2430b). 
 
 - [Monografia](https://github.com/ronaldlm/projeto-final-bimaster/commit/9d61dc3666f9325b849561707984a74ec8cb930b). 
 
