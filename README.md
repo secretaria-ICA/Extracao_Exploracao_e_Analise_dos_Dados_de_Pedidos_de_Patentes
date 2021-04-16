@@ -10,7 +10,7 @@
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 
-- [Link para o código](https://github.com/link_do_repositorio). <!-- caso não aplicável, remover esta linha -->
+- [Link para o código](https://github.com/ronaldlm/projeto-final-bimaster/commit/c734aaa4ba6efe0b86795161bdc971c55eb2430b). <!-- caso não aplicável, remover esta linha -->
 
 - [Monografia - google drive](https://drive.google.com/drive/folders/1JWyXFRH7sdOISxmT59VwjOxj6xrk7iAw?usp=sharing). <!-- caso não aplicável, remover esta linha -->
 
