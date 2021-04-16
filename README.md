@@ -12,9 +12,9 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o código](https://github.com/ronaldlm/projeto-final-bimaster/commit/c734aaa4ba6efe0b86795161bdc971c55eb2430b). <!-- caso não aplicável, remover esta linha -->
 
-- [Monografia - google drive](https://drive.google.com/drive/folders/1JWyXFRH7sdOISxmT59VwjOxj6xrk7iAw?usp=sharing). <!-- caso não aplicável, remover esta linha -->
+- [Monografia(https://github.com/ronaldlm/projeto-final-bimaster/commit/9d61dc3666f9325b849561707984a74ec8cb930b). <!-- caso não aplicável, remover esta linha -->
 
-
+- [Link para os dados compilados](https://github.com/ronaldlm/projeto-final-bimaster/commit/c734aaa4ba6efe0b86795161bdc971c55eb2430b)
 ---
 
 ### Resumo
