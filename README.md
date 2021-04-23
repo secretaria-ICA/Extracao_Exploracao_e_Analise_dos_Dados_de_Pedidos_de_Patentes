@@ -9,7 +9,7 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Monografia](https://github.com/ronaldlm/projeto-final-bimaster/commit/9d61dc3666f9325b849561707984a74ec8cb930b). 
+- [Monografia](https://github.com/ronaldlm/projeto-final-bimaster/commit/1a92a3ed937815281895b00ab4a1abeb107427b9). 
 
 ---
 
