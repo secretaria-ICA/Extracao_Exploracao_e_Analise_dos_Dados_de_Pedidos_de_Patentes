@@ -1,5 +1,5 @@
 
-# Previsão do número de depósitos de pedidos de patentes no Instituto Nacional da Propriedade Industrial - INPI utilizando redes neurais
+# Extração, exploração e análise dos dados de pedidos de patentes publicados nas Revistas da Propriedade Industrial
 
 #### Aluno: [Ronald Alzamende Martins](https://github.com/ronaldlm)
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
