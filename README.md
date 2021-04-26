@@ -1,15 +1,15 @@
 
-# Extração, exploração e análise dos dados de pedidos de patentes publicados nas Revistas da Propriedade Industrial
+# Extração, Exploração e Análise dos Dados de Pedidos de Patentes Publicados nas Revistas da Propriedade Industrial
 
-#### Aluno: [Ronald Alzamende Martins](https://github.com/ronaldlm)
+#### Aluno: [Ronald Alzamende Martins](https://github.com/ronaldlm).
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
-#### Co-orientador(/a/es/as): [Felipe Borges](https://github.com/FelipeBorgesC) e Guilherme Strachan
+#### Co-orientadores: [Felipe Borges](https://github.com/FelipeBorgesC) e [Guilherme Strachan](https://github.com/strachan).
 
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Monografia](https://github.com/ronaldlm/projeto-final-bimaster/commit/1a92a3ed937815281895b00ab4a1abeb107427b9). 
+- [Link para a monografia](BI-Master-Monografia-final_RonaldMartins.docx). 
 
 ---
 
